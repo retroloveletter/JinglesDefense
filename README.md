@@ -1,2 +1,2 @@
 # JinglesDefense
-Puzzle game for 3DO
+Homebrew Puzzle game for 3DO
